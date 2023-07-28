@@ -1,3 +1,12 @@
+# TRUSTLE
+![GitHub repo size](https://img.shields.io/github/repo-size/zeeshanrafiqrana/react-tensorflow?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/zeeshanrafiqrana/react-tensorflow?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/zeeshanrafiqrana/react-tensorflow?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/zeeshanrafiqrana/react-tensorflow/?color=red&style=plastic)
+
+
+
+
 # TensorFlow Object Model
 
 This project utilizes TensorFlow models for object detection, hand gesture recognition, and face mesh detection.
